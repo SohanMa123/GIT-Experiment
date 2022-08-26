@@ -1,0 +1,2 @@
+Hello sohan, Welcome to GIT
+In the Terminal app on your Mac, invoke a command-line editor by typing the name of the editor, followed by a space and then the name of the file you want to open. If you want to create a new file, type the editor name, followed by a space and the pathname of the file.
